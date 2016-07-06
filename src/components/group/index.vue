@@ -21,7 +21,8 @@ export default {
 }
 </script>
 
-<style>
+<style lang="less">
+@import '../../styles/weui/widget/weui_cell/weui_cell_global';
 .vux-no-group-title {
   margin-top:15px;
 }

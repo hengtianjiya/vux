@@ -46,7 +46,8 @@ export default {
 }
 </script>
 
-<style>
+<style lang="less">
+@import '../../styles/weui/widget/weui_tips/weui_actionsheet';
 .vux-actionsheet-gap {
   height: 8px;
   width: 100%;

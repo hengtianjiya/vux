@@ -24,3 +24,7 @@ export default {
   }
 }
 </script>
+
+<style lang="less">
+@import '../../styles/weui/widget/weui_tips/weui_toast';
+</style>

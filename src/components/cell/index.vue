@@ -49,4 +49,5 @@ export default {
 
 <style lang="less">
 @import '../../styles/tap.less';
+@import '../../styles/weui/widget/weui_cell/weui_cell_global';
 </style>
